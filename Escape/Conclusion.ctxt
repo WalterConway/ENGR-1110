@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=typeIn
+comment0.target=Conclusion(int)
+comment0.text=\r\n\ Constructor\ fo\ Conclusion.\r\n\ @param\ typeIn\ Whether\ to\ display\ a\ game\ over\ message\r\n\ or\ a\ level\ up\ message.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Displays\ the\ appropriate\ message\ according\ to\ type.\r\n
+comment2.params=
+comment2.target=void\ makeGameOver()
+comment2.text=\r\n\ Displays\ the\ game\ over\ message.\r\n
+comment3.params=
+comment3.target=void\ makeLvlUp()
+comment3.text=\r\n\ Displays\ the\ level\ up\ message.\r\n
+numComments=4

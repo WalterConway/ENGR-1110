@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=typeIn
+comment0.target=Item(int)
+comment0.text=\r\n\ Constructor\ for\ Item.\ Designates\ the\ type\ of\ item.\r\n\ @param\ typeIn.\ Type\ of\ item\ this\ is.\r\n
+comment1.params=
+comment1.target=void\ moreHealth()
+comment1.text=\r\n\ Gives\ the\ user\ 50\ more\ health.\r\n
+comment2.params=
+comment2.target=void\ moreMissiles()
+comment2.text=\r\n\ Gives\ the\ user\ 3\ more\ missiles.\r\n
+comment3.params=
+comment3.target=void\ moreFireballs()
+comment3.text=\r\n\ Gives\ the\ user\ 5\ more\ fireballs.\r\n
+comment4.params=
+comment4.target=void\ key()
+comment4.text=\r\n\ Gives\ the\ user\ a\ key.\r\n
+comment5.params=
+comment5.target=void\ giveMe()
+comment5.text=\r\n\ Checks\ to\ see\ if\ this\ item\ has\ been\ picked\ up.\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Checks\ to\ see\ if\ this\ item\ has\ been\ picked\ up.\r\n
+numComments=7

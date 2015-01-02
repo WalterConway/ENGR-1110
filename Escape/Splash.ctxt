@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=typeIn
+comment0.target=Splash(int)
+comment0.text=\r\n\ Constructor\ for\ Splash.\ Type\ 0\ has\ interaction,\ the\ other\ do\ not.\r\n\ @param\ typeIn\ Value\ to\ assign\ to\ type.\ Decides\ what\ image\ to\ display.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Creates\ a\ blinking\ effect\ for\ type\ 0,\ does\ nothing\ for\ other\ types.\r\n
+numComments=2

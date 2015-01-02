@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=move\ direction\ speed\ displacement
+comment0.target=Platform(boolean,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ Platform.\ Only\ use\ for\ moving\ platforms.\r\n\ @param\ move\ Whether\ or\ not\ this\ platoform\ is\ moving.\r\n\ Only\ use\ true\ for\ this\ constructor.\r\n\ @param\ direction\ Direction\ this\ platform\ is\ moving\ \r\n\ (0\ for\ up,\ 1\ for\ down).\r\n\ @param\ speed\ Speed\ this\ platform\ is\ moving.\r\n\ @param\ displacement\ how\ far\ this\ platform\ should\ move\ from\ its\ original\ position.\r\n
+comment1.params=
+comment1.target=Platform()
+comment1.text=\r\n\ Constructor\ for\ Platform.\ Only\ use\ for\ nonmoving\ platforms.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Moves\ if\ the\ Platform\ is\ a\ moving\ type.\r\n
+comment3.params=
+comment3.target=void\ horizontalMove()
+comment3.text=\r\n\ Moves\ this\ platform\ right\ or\ left.\r\n
+comment4.params=
+comment4.target=void\ verticalMove()
+comment4.text=\r\n\ Moves\ this\ platform\ up\ and\ down.\r\n
+comment5.params=
+comment5.target=void\ freeRideX()
+comment5.text=\r\n\ Moves\ any\ objects\ standing\ on\ this\ platform\ right\ or\ left.\r\n
+comment6.params=
+comment6.target=void\ freeRideY()
+comment6.text=\r\n\ Moves\ any\ objects\ standing\ on\ this\ platform\ up\ or\ down.\r\n
+comment7.params=
+comment7.target=boolean\ nearBorder()
+comment7.text=\r\n\ @return\ Returns\ true\ if\ this\ object\ is\ near\ the\ edge\ of\ the\ world.\r\n
+numComments=8
